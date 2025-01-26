@@ -10,6 +10,6 @@
 - 🔹 Podem me chama de Azeythy: ...
 - 🔹 Sonho em ser um desenvolvedor de jogos  ...
  <h1 >Meu Projeto Atual de treinamento</h1>
-- 💫 <a href="https://restaurante-sandy.vercel.app/">System</a>
+- 💫 <a href="https://crud-com-react-one.vercel.app/">System</a>
 
 
